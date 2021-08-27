@@ -1,0 +1,6 @@
+8/16 10:58:56.413  vendor: GenuineIntel
+8/16 10:58:56.413  branding: Intel(R) Core(TM) i9-9900K CPU @ 3.60GHz
+8/16 10:58:56.413  features: lahf64 cmpxchg16b sse sse2 sse3 ssse3 sse41 sse42 avx avx2 aesni clmul rdrand 
+8/16 10:58:56.413  sockets: 1
+8/16 10:58:56.413  cores: 8
+8/16 10:58:56.413  threads: 16
